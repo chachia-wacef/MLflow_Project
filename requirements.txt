@@ -1,0 +1,13 @@
+fire
+numpy
+pandas
+pipenv
+python-dateutil
+scikit-learn
+sklearn
+virtualenv
+virtualenv-clone
+mlflow
+mlflow[pipelines]
+mlflow[extras]
+mlflow-skinny
